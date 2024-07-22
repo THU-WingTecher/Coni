@@ -1,0 +1,12 @@
+Statement.setMaxRows
+Statement.getMaxRows
+Statement.getMaxFieldSize
+Statement.addBatch
+Connection.commit
+Connection.rollback
+ResultSet.rowUpdated
+Statement.getMaxRows
+ResultSet.rowInserted
+ResultSet.rowDeleted
+ResultSet.setFetchDirection
+Connection.getHoldability
