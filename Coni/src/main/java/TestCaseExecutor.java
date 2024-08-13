@@ -91,18 +91,6 @@ class TestUnitExecutor {
         return res;
     }
 
-//    public void closeThread() {
-//        executor.shutdown();
-//        try {
-//            if (!executor.awaitTermination(5, TimeUnit.SECONDS)) {
-//                executor.shutdownNow();
-//            }
-//        } catch (InterruptedException e) {
-//            executor.shutdownNow();
-//            Thread.currentThread().interrupt();
-//        }
-//    }
-
     private FeedbackResult execute(ContextualFunc func) throws SQLException {
         Method method = func.getMethod();
         String[] names = func.getParamName();
