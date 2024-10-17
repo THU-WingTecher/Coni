@@ -35,3 +35,17 @@ The inconsistent behaviors detected during testing are categorized and output to
 # Additional Documentation
 
 [Coni JDBC State Model](https://docs.google.com/spreadsheets/d/1gTIH_F9nV7seuzc0GppZY9lxoYksaAbeF2RQoPpg8CQ/edit?usp=sharing)
+
+# Citation
+
+If you are interested in this work, please feel free to leave a star or cite us through:
+
+```
+@inproceedings{deng2025coni,
+  title={CONI: Detecting Database Connector Bugs via State-Aware Test Case Generation},
+  author={Deng, Wenqian and Liang, Jie and Wu, Zhiyong and Fu, Jigzhou and Wang, Mingzhe and Jiang, Yu},
+  booktitle={Proceedings of the IEEE/ACM 47th International Conference on Software Engineering},
+  pages={1--12},
+  year={2025}
+}
+```
