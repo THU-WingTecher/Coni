@@ -43,7 +43,7 @@ If you are interested in this work, please feel free to leave a star or cite us 
 ```
 @inproceedings{deng2025coni,
   title={CONI: Detecting Database Connector Bugs via State-Aware Test Case Generation},
-  author={Deng, Wenqian and Liang, Jie and Wu, Zhiyong and Fu, Jigzhou and Wang, Mingzhe and Jiang, Yu},
+  author={Deng, Wenqian and Liang, Jie and Wu, Zhiyong and Fu, Jingzhou and Wang, Mingzhe and Jiang, Yu},
   booktitle={Proceedings of the IEEE/ACM 47th International Conference on Software Engineering},
   pages={1--12},
   year={2025}
